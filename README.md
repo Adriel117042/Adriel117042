@@ -16,8 +16,8 @@ Estudiante de ingeniería. Apasionado por el desarrollo de software, la tecnolog
 
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
-| **Lenguajes & Frontend** | `JavaScript`, `HTML5`, `CSS3`, `Python` |
-| **Herramientas & Entornos** | `Git`, `GitHub`, `Linux`, `VS Code` |
+| **Lenguajes & Frontend** | `JavaScript`, `HTML5`, `CSS3`, `Python`, 'C' |
+| **Herramientas & Entornos** | `Git`, `GitHub`, `Linux`, `VS Code`, 'Blender' |
 | **Áreas Académicas** | `Matemáticas Básicas`, `Cálculo`, `Resolución de Problemas` |
 
 ---
