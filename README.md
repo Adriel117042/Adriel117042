@@ -52,8 +52,6 @@ Estudiante de ingeniería en el **Tecnológico de Estudios Superiores del Orient
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adriel117042&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+
+
