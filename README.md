@@ -1,4 +1,4 @@
-# ¡Hola, soy AdrieL! 👋
+# ¡Hola, soy Adriel! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante%20%2F%20Desarrollador-blue?style=for-the-badge&logo=appveyor" alt="Status" />
