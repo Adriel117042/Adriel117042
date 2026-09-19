@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Estudiante de ingeniería en el **Tecnológico de Estudios Superiores del Oriente del Estado de México (TESOEM)**. Apasionado por el desarrollo de software, la tecnología y la educación, combinando la programación con la tutoría académica de matemáticas.
+Estudiante de ingeniería. Apasionado por el desarrollo de software, la tecnología y la educación, combinando la programación con la tutoría académica de matemáticas.
 
 ---
 
@@ -48,7 +48,7 @@ Estudiante de ingeniería en el **Tecnológico de Estudios Superiores del Orient
 ### 🗣️ Idiomas
 
 * **Español:** Nativo 🇲🇽
-* **Inglés:** Técnico / Comprensión de lectura y documentación 🇺🇸
+* **Inglés:** Técnico / Comprensión de lectura
 
 ---
 
